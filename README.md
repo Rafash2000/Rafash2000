@@ -12,3 +12,5 @@ Student of the 3rd semester of computer science at the WSB University in Gdańsk
 -C++
 
 -C
+## Contact
+rafalbarylka@gmail.com
