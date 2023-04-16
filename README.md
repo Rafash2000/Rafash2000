@@ -3,14 +3,13 @@ I am IT student at WSB gdansk. I have been learning programming since 2019. In m
 ## Experience
 My future job ...
 ## Education
-Student of the 6rd semester of computer science at the WSB University in Gdańsk
+Student of the 6rd semester of IT at the WSB University in Gdańsk
 ## Skills
 -Java
 
--C#
+-C#/.NET
 
 -C++
 
--C
 ## Contact
 rafalbarylka@gmail.com
