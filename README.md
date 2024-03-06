@@ -1,15 +1,21 @@
 # Rafał Baryłka
-I am IT student at WSB gdansk. I have been learning programming since 2019. In my free time I like to play football and watch formula 1.
+I am graduate IT student at University WSB Merito Gdansk. I have been learning programming since 2019. In my free time I like to play football and watch formula 1.
 ## Experience
-My future job ...
+Trainee software enginner in GlobalLogic Gdansk
 ## Education
-Student of the 6rd semester of IT at the WSB University in Gdańsk
+Graduate of IT with specialization in programmingat the University WSB Merito Gdansk
 ## Skills
--Java
+-Java/Spring Boot
+
+-JavaScript/React
 
 -C#/.NET
 
 -C++
+
+-MySQL, PLSQL, PosgreSQL
+
+-Docker
 
 ## Contact
 rafalbarylka@gmail.com
